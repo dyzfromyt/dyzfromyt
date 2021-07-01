@@ -1,0 +1,2 @@
+- Software Engineer
+- Interested in Artificial Intelligence
